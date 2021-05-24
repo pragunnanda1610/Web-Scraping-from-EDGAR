@@ -1,0 +1,28 @@
+Some useful Jupyter Notebook commands:
+
+http://maxmelnick.com/2016/04/19/python-beginner-tips-and-tricks.html
+
+Command Mode
+
+The following commands work when the cell is selected(blue) but not in editing mode(green).
+To come out from editing mode(from green to blue), press Escape key(Esc).
+
+1	shift + enter 		run cell, select below
+2	ctrl + enter 		run cell
+3	option + enter 		run cell, insert below
+4		A		insert cell above
+5		B		insert cell below
+6		C 		copy cell
+7		V 		paste cell
+8		D 		delete selected cell
+9		I 		interrupt kernel
+10		0  		restart kernel (with dialog)
+11		Y 		change cell to code mode
+12		M 		change cell to markdown mode (good for documentation and writing text)
+
+Edit Mode
+
+Used to comment when the cell is in editing mode(green). 
+
+13	     ctrl + /		toggle comment lines(comment or uncomment line/selected lines of code)
+				code lines are commented by putting "#" in front of them.

@@ -1,0 +1,7 @@
+To install the libraries:
+1.Open command prompt by typing "cmd" in start menu.
+2.Type "pip install pandas" and press enter. This will install pandas.
+3.Similarly, for other libraries, type :
+	pip install requests
+	pip install beautifulsoup4
+	pip install urllib3
