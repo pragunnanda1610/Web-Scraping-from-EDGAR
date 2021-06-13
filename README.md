@@ -5,5 +5,3 @@ Created the tool from scratch, in Python using the libraries Requests, Pandas, B
 Final working model was successfully able to download around 8GB+ of data, comprising of 1500+ filings for 100+ companies in the Chemical Sector, across a period of 10 years, in just under 45 minutes. Otherwise if done manually, for a single person, this task would have taken several days and a lot of physical effort, thus improving the efficiency of the Analytics team and saving a huge amount of time for the company.
 
 For details and a run through of the code and a guide to understandng the outputs, go through the [SCRAPING TOOL Documentation](SCRAPING%20TOOL%20Documentation.pdf)
-
-(https://github.com/pragunnanda1610/Web-Scraping-from-EDGAR/blob/c708521690c013855dda464497ae6d0ba7fce9a5/SCRAPING%20TOOL%20Documentation.pdf).
